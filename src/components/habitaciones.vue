@@ -1,5 +1,7 @@
 <template>
     <div class="habitaciones">
+            <div class="text-h6"><h2 style="text-align: center;">Habitaciones</h2></div>
+
         <div class="q-pa-md row items-start q-gutter-md">
             <q-card>
                 <q-card-section horizontal>
