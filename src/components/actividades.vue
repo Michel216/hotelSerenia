@@ -1,5 +1,7 @@
 <template>
   <div>
+        <div class="text-h6"><h2 style="text-align: center;">Actividades</h2></div>
+
     <div class="q-pa-md d-flex justify-center">
       <!-- Actividad 1: Escalada en Indoor Climbing Center -->
       <q-card class="my-card" flat bordered style="">
